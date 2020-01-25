@@ -1,4 +1,4 @@
-var friends=[{
+const friends = [{
     "name":"John",
     "photo":"https://images.complex.com/complex/image/upload/c_fill,g_center,w_1200/fl_lossy,pg_1,q_auto/complex_john-cena_ah_04_qaihpx.jpg",
     "scores":[
