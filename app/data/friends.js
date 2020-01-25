@@ -1,17 +1,17 @@
 var friends=[{
-    "name":"Ahmed",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "name":"John",
+    "photo":"https://images.complex.com/complex/image/upload/c_fill,g_center,w_1200/fl_lossy,pg_1,q_auto/complex_john-cena_ah_04_qaihpx.jpg",
     "scores":[
-        5,
-        1,
         4,
-        4,
-        5,
-        1,
         2,
+        3,
+        1,
         5,
         4,
-        1
+        2,
+        1,
+        4,
+        5,
       ]
   },
   {
@@ -29,6 +29,22 @@ var friends=[{
         5,
         1
       ]
-  }]
+    },
+    {
+      "name":"tyson",
+    "photo":"http://3.bp.blogspot.com/-jnZ2_6oFQ6k/USZRwnHsxQI/AAAAAAAAzL4/p0BBcUZii2w/s1600/mike-tyson-young.jpg",
+    "scores":[
+        5,
+        4,
+        1,
+        4,
+        5,
+        5,
+        2,
+        3,
+        5,
+        1
+    ]},
+]
 
   module.exports = friends;
